@@ -1,0 +1,14 @@
+{
+  "name": "react-quick-chat",
+  "version": "1.0.0",
+  "description": "React Custom Chat widget ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richeek",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
